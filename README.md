@@ -14,7 +14,7 @@
 - 📊 I’m improving my problem-solving by solving **LeetCode DSA** problems regularly.
 - 🌱 I’m currently learning **Web3**, **Rust**, and **System Design**.
 - 📫 Reach me at: [soumyajaiswal7708@gmail.com](mailto:soumyajaiswal7708@gmail.com)
-- 🌐 Portfolio: [https://github.com/nios-x](https://github.com/nios-x)
+- 🌐 Portfolio: [https://github.com/nios-x](https://portfolio-qc2k.onrender.com)
 
 ---
 
