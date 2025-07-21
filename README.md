@@ -50,7 +50,7 @@
 
 ### 📌 Featured Projects
 - 🖤 [**Dinka**](https://dinka.pythonanywhere.com) - Realtime Chatting App with Authentication, Friend List, Media Sharing.
-- 🚀 [**Mustard**](https://mustard.onrender.com) — Open source social media platform.
+- 🚀 [**Mustard**](https://mustard7.onrender.com) — Open source social media platform.
 - 🕹️ [**Swodito**](https://swodito.onrender.com) — A 3D multiplayer WebSocket-based top-down shooter game.
 - 🛒 [**Jaiscon**](https://jaiscon.onrender.com) — E-commerce app with admin panel and PhonePe payments.
 - 📰 [**Curled News**](https://curlednews.pythonanywhere.com) — Auto-updating news SPA using Django and React.
