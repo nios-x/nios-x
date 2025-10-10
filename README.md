@@ -30,6 +30,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
+
+---
+[![An image of @niosx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niosx)](https://holopin.io/@niosx)
 ---
 
 ### 📈 GitHub Stats
