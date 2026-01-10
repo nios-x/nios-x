@@ -47,7 +47,7 @@
 
 ### 🧩 LeetCode Progress
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-380+_problems-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/soumyajaiswal7708)
+[![LeetCode](https://img.shields.io/badge/LeetCode-550+_problems-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/soumyajaiswal7708)
 
 ---
 
