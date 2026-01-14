@@ -14,7 +14,7 @@
 - 📊 I’m improving my problem-solving by solving **LeetCode DSA** problems regularly.
 - 🌱 I’m currently learning **Web3**, **Rust**, and **System Design**.
 - 📫 Reach me at: [soumyajaiswal7708@gmail.com](mailto:soumyajaiswal7708@gmail.com)
-- 🌐 Portfolio: [Portfolio](https://soumya_7708.vercel.app)
+- 🌐 Portfolio: [Portfolio](https://soumya7708.vercel.app)
 
 ---
 
