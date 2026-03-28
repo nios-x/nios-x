@@ -22,14 +22,6 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,python,django,postgres,mongodb,prisma,redis,docker,kubernetes,git,github,html,css,tailwind,solidity,rust" />
-</p>
-
----
-
 ### 🏅 Achievements & Badges
 
 <p align="center">
@@ -43,6 +35,14 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 </p>
 
 ---
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,python,django,postgres,mongodb,prisma,redis,docker,kubernetes,git,github,html,css,tailwind,solidity,rust" />
+</p>
+
+---
+
 
 ### 🚀 Featured Projects
 
