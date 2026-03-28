@@ -35,10 +35,31 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 </p>
 
 ---
+
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,python,django,postgres,mongodb,prisma,redis,docker,kubernetes,git,github,html,css,tailwind,solidity,rust" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,express,prisma,graphql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,githubactions" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,cloudflare" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,threejs,webgl,blender" />
 </p>
 
 ---
@@ -129,9 +150,3 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
 </p>
-
----
-
-### ✨ Motto
-
-> Build real things. Learn deeply. Stay consistent.
