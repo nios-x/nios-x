@@ -30,7 +30,17 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 
 ---
 
-### 🚀 Featured Projects
+### 🏅 Achievements & Badges
+
+<p align="center">
+  <a href="https://holopin.io/@niosx">
+    <img src="https://holopin.me/niosx" alt="Holopin Badges"/>
+  </a>
+</p>
+
+<p align="center">
+  🏆 Hacktoberfest 2025 Supercontributor &nbsp;•&nbsp; 🔥 Open Source Contributor &nbsp;•&nbsp; 🚀 Continuous Builder
+</p>
 
 ---
 
