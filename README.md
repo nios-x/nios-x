@@ -9,8 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **Mustard**, an open-source social media platform.
+- 🔭 I’m currently building **Dinka**, an open-source social media platform.
 - 🎮 Creator of **Swodito** — a 3D multiplayer game with WebSockets and Three.js.
+- 💕 Creator of Rimiacey (RAG based PDF answering).
 - 📊 I’m improving my problem-solving by solving **LeetCode DSA** problems regularly.
 - 🌱 I’m currently learning **Web3**, **Rust**, and **System Design**.
 - 📫 Reach me at: [soumyajaiswal7708@gmail.com](mailto:soumyajaiswal7708@gmail.com)
@@ -52,10 +53,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🖤 [**Dinka**](https://dinka.pythonanywhere.com) - Realtime Chatting App with Authentication, Friend List, Media Sharing.
-- 🚀 [**Mustard**](https://mustard7.onrender.com) — Open source social media platform.
+- 🖤 [**Dinka**](https://dinka.vercel.app) - Realtime Chatting App with Authentication, Friend List, Media Sharing.
 - 🕹️ [**Swodito**](https://swodito.onrender.com) — A 3D multiplayer WebSocket-based top-down shooter game.
-- 🛒 [**Jaiscon**](https://jaiscon.onrender.com) — E-commerce app with admin panel and PhonePe payments.
 - 📰 [**Curled News**](https://curlednews.pythonanywhere.com) — Auto-updating news SPA using Django and React.
 ---
 
