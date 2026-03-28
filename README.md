@@ -1,87 +1,124 @@
 <h1 align="center">Hi 👋, I'm Soumya Jaiswal</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | DSA Enthusiast</h3>
+<h3 align="center">SDE-I @ CNEAR | Full-Stack Developer | Open Source Contributor | Real-Time Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nios-x&label=Profile%20views&color=0e75b6&style=flat" alt="nios-x" />
+  <a href="https://github.com/nios-x"><img src="https://img.shields.io/github/followers/nios-x?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/nios-x"><img src="https://komarev.com/ghpvc/?username=nios-x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"></a>
+  <a href="https://leetcode.com/u/soumyajaiswal7708/"><img src="https://img.shields.io/badge/LeetCode-Top%200.5%25-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **Dinka**, an open-source social media platform.
-- 🎮 Creator of **Swodito** — a 3D multiplayer game with WebSockets and Three.js.
-- 💕 Creator of Rimiacey (RAG based PDF answering).
-- 📊 I’m improving my problem-solving by solving **LeetCode DSA** problems regularly.
-- 🌱 I’m currently learning **Web3**, **Rust**, and **System Design**.
-- 📫 Reach me at: [soumyajaiswal7708@gmail.com](mailto:soumyajaiswal7708@gmail.com)
-- 🌐 Portfolio: [Portfolio](https://soumya7708.vercel.app)
+I'm a BCA undergraduate and software developer who enjoys building scalable web systems, real-time applications, and open-source tools.
+
+- 🔭 Currently building **Mustard**, an open-source social media platform
+- 🌱 Learning **Web3, Rust, and System Design**
+- ⚡ Love working on **WebRTC, WebSockets, Redis, Docker, Kubernetes, and backend architecture**
+- 🧩 Strong focus on **DSA in C++**
+- 📫 Reach me at: **soumyajaiswal7708@gmail.com**
+- 🌐 Portfolio: **soumya7708.vercel.app**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-
-
----
-[![An image of @niosx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niosx)](https://holopin.io/@niosx)
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nios-x&show_icons=true&theme=tokyonight" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nios-x&theme=tokyonight" alt="streak stats"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,python,django,postgres,mongodb,prisma,redis,docker,kubernetes,git,github,html,css,tailwind,solidity,rust" />
 </p>
 
 ---
 
-### 🧩 LeetCode Progress
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-550+_problems-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/soumyajaiswal7708)
+### 🚀 Featured Projects
 
 ---
 
-### 📌 Featured Projects
-- 🖤 [**Dinka**](https://dinka.vercel.app) - Realtime Chatting App with Authentication, Friend List, Media Sharing.
-- 🕹️ [**Swodito**](https://swodito.onrender.com) — A 3D multiplayer WebSocket-based top-down shooter game.
-- 📰 [**Curled News**](https://curlednews.pythonanywhere.com) — Auto-updating news SPA using Django and React.
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🖤 Dinka</h4>
+      <p>Full-stack social media platform with real-time chat, posts, likes, comments, and WebRTC-based video calling.</p>
+    </td>
+    <td width="50%">
+      <h4>🧠 Rimiacey</h4>
+      <p>AI-powered PDF analyzer using RAG, embeddings, and knowledge graphs (Neo4j + Qdrant) for deep document understanding.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h4>🎬 Video Transcoder</h4>
+      <p>Distributed video processing system using Redis queues and FFmpeg to convert videos into multiple streaming formats.</p>
+    </td>
+    <td width="50%">
+      <h4>🎓 SkillX</h4>
+      <p>Peer-to-peer learning platform with WebRTC video sessions, real-time chat, and collaborative whiteboard.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h4>🕹️ Swodito</h4>
+      <p>3D multiplayer game built with Three.js and WebSockets featuring real-time player synchronization.</p>
+    </td>
+    <td width="50%">
+      <h4>🛒 Jaiscon</h4>
+      <p>E-commerce platform with admin panel, authentication, and payment integration for housing products.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 🔗 Connect with Me
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nios-x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nios-x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nios-x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=soumyajaiswal7708&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🏆 Open Source & Achievements
+
+- ⭐ Contributor to **OWASP Nest**
+- 🌍 Active in **Hacktoberfest**
+- 🧠 Consistent DSA problem solver
+- 🔥 Building projects with a focus on performance, scalability, and clean architecture
+
+---
+
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/soumya-jaiswal7708" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:soumyajaiswal7708@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://soumya7708.vercel.app" target="blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-<!--
-**nios-x/nios-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Motto
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Build real things. Learn deeply. Stay consistent.
