@@ -39,28 +39,21 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind,python,django,flask,express" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,express,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=prisma,graphql,postgres,mongodb,redis,firebase,supabase,docker" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,linux,git,github,githubactions,aws,gcp,vercel,netlify" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,solidity,rust,threejs,webgl" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,cloudflare" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,threejs,webgl,blender" />
-</p>
 
 ---
 
