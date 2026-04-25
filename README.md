@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Jaiswal</h1>
-<h3 align="center">SDE-I @ CNEAR | Full-Stack Developer | Open Source Contributor | Real-Time Systems Enthusiast</h3>
+<h3 align="center">SDE @ UNWRITE STUDIOS | Full-Stack Developer | Open Source Contributor | Real-Time Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/nios-x"><img src="https://img.shields.io/github/followers/nios-x?label=Followers&style=social" alt="GitHub Followers"></a>
