@@ -167,36 +167,6 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
-## ⚡ About Me
-
-I'm a **BCA undergraduate** and **Software Developer** passionate about building scalable web systems, real-time applications, and open-source tools that make a difference.
-
-```yaml
-name: Soumya Jaiswal
-role: SDE @ UNWRITE STUDIOS
-location: India 🇮🇳
-education: BCA (Undergraduate)
-
-currently_building: "Dinka — Open-source social media platform"
-learning: ["Web3", "Rust", "System Design", "Distributed Systems"]
-
-expertise:
-  backend: ["Node.js", "Express", "Django", "Flask", "GraphQL"]
-  frontend: ["Next.js", "React", "TypeScript", "Three.js"]
-  databases: ["PostgreSQL", "MongoDB", "Redis", "Neo4j", "Qdrant"]
-  devops: ["Docker", "Kubernetes", "Nginx", "AWS", "GCP"]
-  realtime: ["WebRTC", "WebSockets", "Redis Pub/Sub"]
-
-fun_facts:
-  - "I debug with console.log and I'm not ashamed 🐛"
-  - "My terminal is my second home 🖥️"
-  - "I believe in shipping fast and iterating faster 🚀"
-
-daily_routine: "Code → Coffee → Debug → Repeat ☕"
-```
 
 <br clear="both"/>
 
