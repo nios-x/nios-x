@@ -143,13 +143,6 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=SOUMYA%20JAISWAL&fontSize=60&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=18&descColor=8b949e&descAlignY=55" />
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=SDE+%40+UNWRITE+STUDIOS;Full-Stack+Developer+%7C+Open+Source+Contributor;Real-Time+Systems+%7C+WebRTC+%7C+Distributed+Systems;Top+0.5%25+on+LeetCode+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
 
 <br/>
 
