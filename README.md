@@ -59,48 +59,6 @@ I'm a BCA undergraduate and software developer who enjoys building scalable web 
 </p>
 
 
----
-
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🖤 Dinka</h4>
-      <p>Full-stack social media platform with real-time chat, posts, likes, comments, and WebRTC-based video calling.</p>
-    </td>
-    <td width="50%">
-      <h4>🧠 Rimiacey</h4>
-      <p>AI-powered PDF analyzer using RAG, embeddings, and knowledge graphs (Neo4j + Qdrant) for deep document understanding.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h4>🎬 Video Transcoder</h4>
-      <p>Distributed video processing system using Redis queues and FFmpeg to convert videos into multiple streaming formats.</p>
-    </td>
-    <td width="50%">
-      <h4>🎓 SkillX</h4>
-      <p>Peer-to-peer learning platform with WebRTC video sessions, real-time chat, and collaborative whiteboard.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h4>🕹️ Swodito</h4>
-      <p>3D multiplayer game built with Three.js and WebSockets featuring real-time player synchronization.</p>
-    </td>
-    <td width="50%">
-      <h4>🛒 Jaiscon</h4>
-      <p>E-commerce platform with admin panel, authentication, and payment integration for housing products.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 
