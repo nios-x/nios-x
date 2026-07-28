@@ -13,19 +13,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a BCA undergraduate and software developer who enjoys building scalable web systems, real-time applications, and open-source tools.
-
-- 🔭 Currently building **Dinka**, an open-source social media platform
-- 🌱 Learning **Web3, Rust, and System Design**
-- ⚡ Love working on **WebRTC, WebSockets, Redis, Docker, Kubernetes, and backend architecture**
-- 🧩 Strong focus on **DSA in C++**
-- 📫 Reach me at: **soumyajaiswal7708@gmail.com**
-- 🌐 Portfolio: **soumya7708.vercel.app**
-
----
-
 ### 🏅 Achievements & Badges
 
 <p align="center">
