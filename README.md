@@ -124,21 +124,10 @@
 <!-- FEATURED PROJECTS -->
 <div align="center">
 
-## 🚀 Featured Projects
+## Projects
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/nios-x">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nios-x&repo=Dinka&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/nios-x">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nios-x&repo=Rimiacey&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-</a>
-
-</div>
 
 <br/>
 
@@ -214,18 +203,18 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛒 Jaiscon</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>E-commerce platform with <b>admin dashboard</b>, authentication, and <b>payment integration</b>. Features inventory management, order tracking, and analytics.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Complete-3fb950?style=flat-square&labelColor=0d1117" />
-      </p>
-    </td>
+  <h3 align="center">⚡ BeatCode</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  </p>
+  <p>Online coding platform with a <b>React frontend</b>, Node.js backend, and <b>Redis-powered worker system</b> for handling code execution through queues and pub/sub.</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Active-3fb950?style=flat-square&labelColor=0d1117" />
+  </p>
+</td>
   </tr>
 </table>
 
