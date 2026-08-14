@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/u/soumyajaiswal7708/"><img src="https://img.shields.io/badge/LeetCode-Top%200.5%25-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
 </p>
 
----
+
 
 ### 🏅 Achievements & Badges
 
@@ -25,7 +25,7 @@
   🏆 Hacktoberfest 2025 Supercontributor &nbsp;•&nbsp; 🔥 Open Source Contributor &nbsp;•&nbsp; 🚀 Continuous Builder
 </p>
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -53,7 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=nios-x&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 
 
@@ -64,7 +63,7 @@
 - 🧠 Consistent DSA problem solver
 - 🔥 Building projects with a focus on performance, scalability, and clean architecture
 
----
+
 
 
 <div align="center">
@@ -96,12 +95,6 @@
 
 <br clear="both"/>
 
----
-
-<!-- CURRENT FOCUS -->
-<div align="center">
-
-## 🎯 Current Focus
 
 </div>
 
