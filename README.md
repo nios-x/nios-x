@@ -241,7 +241,7 @@
 <!-- ACHIEVEMENTS SECTION -->
 <div align="center">
 
-## 🏆 Achievements & Open Source
+## Achievements & Open Source
 
 </div>
 
@@ -252,16 +252,15 @@
 </p>
 
 <div align="center">
-
-| 🏅 Achievement | 📝 Details |
-|:---|:---|
-| 🏆 **Hacktoberfest 2025** | Supercontributor — exceeded contribution goals |
-| ⭐ **OWASP Nest** | Active contributor to security-focused open source |
-| 🔥 **LeetCode Top 0.5%** | Consistent competitive programming performer |
-| 🚀 **Continuous Builder** | 6+ production-grade projects shipped |
-| 🧠 **DSA Expert** | 500+ problems solved in C++ |
-| 🌍 **Open Source Advocate** | Multiple PRs merged across organizations |
-
+🏅 Achievement	📝 Details
+🥇 LeetCode Top 0.5%	Ranked among the top 0.5% of LeetCode users
+🚀 Innovate-A-Thon Finalist	Finalist in a competitive innovation and development challenge
+🤖 Transformer From Scratch	Designed and trained a Transformer architecture from scratch
+🧠 AI/ML Engineer	Built projects across computer vision, NLP, deep learning, and LLMs
+☁️ Cloud & DevOps Builder	Hands-on experience with Docker, Kubernetes, Redis, GCP, AWS, and CI/CD
+💻 Full-Stack Engineer	Built end-to-end applications with modern React/Next.js and backend systems
+⚡ Systems & Backend	Built distributed workflows involving queues, workers, caching, and media processing
+🔐 Security Focused	Exploring application security, OWASP practices, and secure software development
 </div>
 
 ---
