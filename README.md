@@ -66,19 +66,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/soumya-jaiswal7708" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:soumyajaiswal7708@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://soumya7708.vercel.app" target="blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-  </a>
-</p>
 
 <div align="center">
 
