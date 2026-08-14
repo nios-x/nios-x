@@ -291,21 +291,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 
 
-<!-- SPOTIFY / QUOTE -->
-<div align="center">
-
-## 💭 Random Dev Quote
-
-<br/>
-
-<a href="https://github.com/nios-x">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</a>
-
-</div>
-
----
-
 <!-- CONNECT SECTION -->
 <div align="center">
 
@@ -339,10 +324,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <br/><br/>
 
-<!-- SUPPORT -->
-<a href="https://www.buymeacoffee.com/soumya7708">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
+
 
 </div>
 
@@ -350,9 +332,3 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
-
-<div align="center">
-  <sub>⭐ If you like my work, consider giving a star to my repos! ⭐</sub>
-  <br/>
-  <sub>Built with ❤️ by <a href="https://github.com/nios-x">Soumya Jaiswal</a></sub>
-</div>
