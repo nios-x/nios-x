@@ -55,13 +55,7 @@
 
 ---
 
-### 📈 LeetCode Progress
 
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=soumyajaiswal7708&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
 
 ### 🏆 Open Source & Achievements
 
