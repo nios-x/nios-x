@@ -238,38 +238,8 @@
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
 
-## 📊 GitHub Analytics
 
-<br/>
-
-<a href="https://github.com/nios-x">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nios-x&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/nios-x">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nios-x&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide_border=false" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<a href="https://github.com/nios-x">
-  <img width="60%" src="https://streak-stats.demolab.com?user=nios-x&theme=github-dark-blue&background=0D1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=false" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/nios-x">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nios-x&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</a>
-
-</div>
-
----
 
 <!-- LEETCODE STATS -->
 <div align="center">
