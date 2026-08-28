@@ -27,7 +27,7 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **[Stikkle](https://github.com/nios-x/Stikkle)** AI-powered developer work copilot aggregating GitHub activity and what to work on next
 - **[Dinka](https://github.com/nios-x/dinka)** full-stack social platform with **Next.js, React, Prisma, PostgreSQL, real-time messaging, and voice/video architecture**
 - **[Video Transcoder](https://github.com/nios-x/video-transcoder)** distributed media processing pipeline using **FFmpeg and Redis task queues** for multi-bitrate transcoding
-- **[NAGRIK.AI](https://github.com/nios-x/nagrik)** AI-powered smart-city safety platform with **voice emergency detection, garbage reporting, and real-time accident alerts**
+- **[NAGRIK.AI](https://github.com/nios-x/nagrik)** AI-powered smart-city safety platform with **voice emergency detection, garbage reporting, and accident alerts**
 - **[Rimiacey](https://github.com/nios-x/rimiacey)** RAG-based AI system using **vector embeddings, retrieval, and LLMs** to build contextual knowledge from PDF documents
 
 
