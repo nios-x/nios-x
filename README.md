@@ -66,22 +66,13 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 
 ### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind,python,django,flask,express" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind,python,django,flask,express,prisma,graphql,postgres,mongodb,redis,firebase,supabase,docker&perline=20" width="900" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,graphql,postgres,mongodb,redis,firebase,supabase,docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,linux,git,github,githubactions,aws,gcp,vercel,netlify,pytorch,tensorflow,opencv,huggingface&perline=20" width="900" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,linux,git,github,githubactions,aws,gcp,vercel,netlify" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface" />
-</p>
-
 
 ### 📊 GitHub Stats
 
