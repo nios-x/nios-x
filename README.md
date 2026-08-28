@@ -32,6 +32,7 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **[Video Transcoder](https://github.com/nios-x/video-transcoder)** distributed media processing pipeline using **FFmpeg and Redis task queues** for multi-bitrate transcoding
 - **[NAGRIK.AI](https://github.com/nios-x/nagrik)** AI-powered smart-city safety platform with **voice emergency detection, garbage reporting, and accident alerts**
 - **[Rimiacey](https://github.com/nios-x/rimiacey)** RAG-based AI system using **vector embeddings, retrieval, and LLMs** to build contextual knowledge from PDF documents
+- **[Swodito](https://github.com/nios-x/Swodito-Tauri)** — 3D multiplayer game built with **Three.js and WebSockets**, featuring real-time player synchronization, physics, and immersive 3D environments
 
 
 ### Hackathons
