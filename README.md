@@ -1,3 +1,5 @@
+<img width="1496" height="142" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/4122d83f-435e-4037-8691-dc29c5ab7cc9" />
+
 <table width="100%">
 <tr>
 <td align="left">
@@ -47,7 +49,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **1,100+ contributions** in the last year
 - **850+ problems solved** across LeetCode with a **55%+ acceptance rate**
   
-<img width="1496" height="142" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/4122d83f-435e-4037-8691-dc29c5ab7cc9" />
 
 
                                                                                                           
