@@ -60,7 +60,7 @@ I build **production systems, distributed infrastructure, AI-native products, an
 </p>
 
 <p align="center">
-  🏆 Hacktoberfest 2025 Supercontributor &nbsp;•&nbsp; 🔥 Open Source Contributor &nbsp;•&nbsp; 🚀 Continuous Builder
+   Hacktoberfest 2025 Supercontributor &nbsp;•&nbsp;  Open Source Contributor &nbsp;•&nbsp;
 </p>
 
 
@@ -74,51 +74,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
   <img src="https://skillicons.dev/icons?i=kubernetes,nginx,linux,git,github,githubactions,aws,gcp,vercel,netlify,pytorch,tensorflow,opencv,huggingface,supabase,docker&perline=20" width="900" />
 </p>
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nios-x&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-
-### 🏆 Open Source & Achievements
-
-- ⭐ Contributor to **OWASP Nest**
-- 🌍 Active in **Hacktoberfest**
-- 🧠 Consistent DSA problem solver
-- 🔥 Building projects with a focus on performance, scalability, and clean architecture
-
-
-
-
-<div align="center">
-
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://github.com/nios-x">
-  <img src="https://img.shields.io/github/followers/nios-x?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" alt="GitHub Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/nios-x">
-  <img src="https://komarev.com/ghpvc/?username=nios-x&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/soumyajaiswal7708/">
-  <img src="https://img.shields.io/badge/LeetCode-Top%200.5%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/soumya-jaiswal7708">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-
-</div>
-
-<br/>
 
 
 <br clear="both"/>
