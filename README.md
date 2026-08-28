@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>Software Engineer.</strong> Not a so-called avg vibecoder. Hates AI slop.
+<strong>Software Engineer.</strong>
 </td>
 <td align="right">
 <a href="https://www.soumyajaiswal.me/">Portfolio</a> ·
