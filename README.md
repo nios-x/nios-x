@@ -16,25 +16,25 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 ### Engineering, Open Source & Programs
 
-- **Software Developer · [Unwrite Studios](https://unwrite.studio/)** — worked on production software before moving on early
-- **Software Development Engineer Intern · CNEAR** — contributed to production engineering and application development
-- **Open Source Contributor · [OWASP Nest](https://github.com/OWASP/Nest)** — contributing to an open-source platform within the OWASP ecosystem
-- **Full Stack Developer Intern · WebSpace IN** — built and shipped full-stack web applications across frontend and backend systems
+- **Software Developer · [Unwrite Studios](https://unwrite.studio/)**  worked on production software before moving on early
+- **Software Development Engineer Intern · CNEAR** contributed to production engineering and application development
+- **Open Source Contributor · [OWASP Nest](https://github.com/OWASP/Nest)** contributing to an open-source platform within the OWASP ecosystem
+- **Full Stack Developer Intern · WebSpace IN** built and shipped full-stack web applications across frontend and backend systems
 
 ### Projects
 
-- **[BeatCode](https://github.com/nios-x/beatcode)** — online coding platform with Monaco Editor, isolated code execution workers, and real-time SSE streaming
-- **[Stikkle](https://github.com/nios-x/Stikkle)** — AI-powered developer work copilot aggregating GitHub activity, detecting blockers, and recommending what to work on next
-- **[Dinka](https://github.com/nios-x/dinka)** — full-stack social platform with **Next.js, React, Prisma, PostgreSQL, real-time messaging, and voice/video architecture**
-- **[Video Transcoder](https://github.com/nios-x/video-transcoder)** — distributed media processing pipeline using **FFmpeg and Redis task queues** for multi-bitrate video transcoding
-- **[NAGRIK.AI](https://github.com/nios-x/nagrik)** — AI-powered smart-city safety platform with **voice emergency detection, garbage reporting, and real-time accident alerts**
-- **[Rimiacey](https://github.com/nios-x/rimiacey)** — RAG-based AI system using **vector embeddings, retrieval, and LLMs** to build contextual knowledge from PDF documents
+- **[BeatCode](https://github.com/nios-x/beatcode)** online coding platform with Monaco Editor, isolated code execution workers, and real-time SSE streaming
+- **[Stikkle](https://github.com/nios-x/Stikkle)** AI-powered developer work copilot aggregating GitHub activity, detecting blockers, and recommending what to work on next
+- **[Dinka](https://github.com/nios-x/dinka)** full-stack social platform with **Next.js, React, Prisma, PostgreSQL, real-time messaging, and voice/video architecture**
+- **[Video Transcoder](https://github.com/nios-x/video-transcoder)** distributed media processing pipeline using **FFmpeg and Redis task queues** for multi-bitrate video transcoding
+- **[NAGRIK.AI](https://github.com/nios-x/nagrik)** AI-powered smart-city safety platform with **voice emergency detection, garbage reporting, and real-time accident alerts**
+- **[Rimiacey](https://github.com/nios-x/rimiacey)** RAG-based AI system using **vector embeddings, retrieval, and LLMs** to build contextual knowledge from PDF documents
 
 
 ### Hackathons
-- **Innovate-A-Thon 3.0 · BIT Mesra / Coinbase** — finalist with **TTREX**, a tokenized real-estate platform built around ERC-721 and ERC-1155 assets
-- **WeMakeDevs Hackathon** — shipped **Stikkle**, an AI engineering intelligence layer for repositories, pull requests, issues, and developer activity
-- **GDG Ranchi Hackathon · 36-hour sprint** — built and shipped a complete end-to-end application under rapid prototyping constraints
+- **Innovate-A-Thon 3.0 · BIT Mesra / Coinbase** finalist with **TTREX**, a tokenized real-estate platform built around ERC-721 and ERC-1155 assets
+- **WeMakeDevs Hackathon**  shipped **Stikkle**, an AI engineering intelligence layer for repositories, pull requests, issues, and developer activity
+- **GDG Ranchi Hackathon · 36-hour sprint** built and shipped a complete end-to-end application under rapid prototyping constraints
 
 ### Learning & Systems
 
