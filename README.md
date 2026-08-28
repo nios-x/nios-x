@@ -49,14 +49,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **System Design** HLD, scalability, caching, load balancing, and distributed architecture
 - **1,100+ contributions** in the last year
 - **850+ problems solved** across LeetCode with a **55%+ acceptance rate**
-  
-
-<p align="center">
-  <a href="https://github.com/nios-x"><img src="https://img.shields.io/github/followers/nios-x?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://github.com/nios-x"><img src="https://komarev.com/ghpvc/?username=nios-x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"></a>
-  <a href="https://leetcode.com/u/soumyajaiswal7708/"><img src="https://img.shields.io/badge/LeetCode-Top%200.5%25-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
-</p>
-
 
 
 ### 🏅 Achievements & Badges
