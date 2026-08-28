@@ -293,13 +293,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 ---
 
-<!-- CODING METRICS -->
-<div align="center">
-
-## ⏱️ Weekly Development Breakdown
-
-</div>
-
 <!--START_SECTION:waka-->
 ```text
 TypeScript   █████████████░░░░░░░░░░░░   52.3%
@@ -312,50 +305,3 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-> 💡 *Tip: Install the [WakaTime GitHub Action](https://github.com/athul/waka-readme) to auto-update this section with your real coding stats!*
-
----
-
-
-
-<!-- CONNECT SECTION -->
-<div align="center">
-
-## 🤝 Let's Connect & Build Together
-
-<br/>
-
-<a href="https://www.linkedin.com/in/soumya-jaiswal7708">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:soumyajaiswal7708@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://soumya7708.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/soumyajaiswal7708/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-&nbsp;
-<a href="https://github.com/nios-x">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/💬_Open_for-Collaborations,_Freelance_&_Open_Source-58a6ff?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
