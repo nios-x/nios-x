@@ -38,12 +38,12 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 ### Learning & Systems
 
-- **100xDevs Cohort** — full-stack engineering, system design, and DevOps
-- **OWASP Nest · Open Source** — security automation and CI/CD
-- **LLM & RAG Systems** — vector search, embeddings, retrieval, and prompt engineering
-- **Distributed Systems** — Kafka, gRPC, message queues, and event-driven architecture
-- **Cloud & DevOps** — Docker, Kubernetes, AWS, Terraform, and GitHub Actions
-- **System Design** — HLD, scalability, caching, load balancing, and distributed architecture
+- **100xDevs Cohort** full-stack engineering, system design, and DevOps
+- **OWASP Nest · Open Source** security automation and CI/CD
+- **LLM & RAG Systems** vector search, embeddings, retrieval, and prompt engineering
+- **Distributed Systems** Kafka, gRPC, message queues, and event-driven architecture
+- **Cloud & DevOps** Docker, Kubernetes, AWS, Terraform, and GitHub Actions
+- **System Design** HLD, scalability, caching, load balancing, and distributed architecture
 - **1,100+ contributions** in the last year
 - **850+ problems solved** across LeetCode with a **55%+ acceptance rate**
   
