@@ -78,9 +78,8 @@ I build **production systems, distributed infrastructure, AI-native products, an
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes,nginx,linux,git,github,githubactions,aws,gcp,vercel,netlify" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare,solidity,rust,threejs,webgl" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface" />
 </p>
 
 
