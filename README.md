@@ -1,3 +1,4 @@
+
 <img width="1496" height="142" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/4122d83f-435e-4037-8691-dc29c5ab7cc9" />
 
 <table width="100%">
@@ -49,10 +50,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **1,100+ contributions** in the last year
 - **850+ problems solved** across LeetCode with a **55%+ acceptance rate**
   
-
-
-                                                                                                          
-<h3 align="center">SDE @ UNWRITE STUDIOS | Full-Stack Developer | Open Source Contributor | Real-Time Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/nios-x"><img src="https://img.shields.io/github/followers/nios-x?label=Followers&style=social" alt="GitHub Followers"></a>
