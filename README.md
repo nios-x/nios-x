@@ -36,6 +36,8 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 
 ### Hackathons
+- **Design Decode Winner** · 1st Position at IIT Dhanbad - UI/UX hackathon
+- **CodeQuest Winner** · 1st Position at SBU, Ranchi - Problem solving hackathon 
 - **Innovate-A-Thon 3.0 · BIT Mesra / Coinbase** finalist with **TTREX**, a tokenized real-estate platform built around ERC-721 and ERC-1155 assets
 - **WeMakeDevs Hackathon**  shipped **Stikkle**, an AI engineering intelligence layer for repositories, pull requests, issues, and developer activity
 - **GDG Ranchi Hackathon · 36-hour sprint** built and shipped a complete end-to-end application under rapid prototyping constraints
