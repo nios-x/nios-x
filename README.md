@@ -19,6 +19,7 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 ### Engineering, Open Source & Programs
 
+- **Software Engineer Intern · [Ringthree](https://ringthree.ai/)** building AI voice agents: the Node.js voice runtime (Gemini Live, Twilio, Plivo, Asterisk) plus infrastructure, security and CI
 - **Software Developer · [Unwrite Studios](https://unwrite.studio/)**  worked on production software before moving on early
 - **Software Development Engineer Intern · [CNEAR](https://cnear.ai/)** contributed to production engineering and application development
 - **Open Source Contributor · [OWASP Nest](https://github.com/OWASP/Nest)** contributing to an open-source platform within the OWASP ecosystem
@@ -26,6 +27,7 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 ### Projects
 
+- **[Rwaft](https://github.com/nios-x/rwaft)** Vercel-style deployment platform that turns Git repos or plain-English prompts into live sites, with **Redis reliable queues, Docker build workers, live SSE logs, and an LLM agent that self-repairs failing builds**
 - **[BeatCode](https://github.com/nios-x/beatcode)** online coding platform with Monaco Editor, isolated code execution workers, and real-time SSE streaming
 - **[Stikkle](https://github.com/nios-x/Stikkle)** AI-powered developer work copilot aggregating GitHub activity and what to work on next
 - **[Dinka](https://github.com/nios-x/dinka)** full-stack social platform with **Next.js, React, Prisma, PostgreSQL, real-time messaging, and voice/video architecture**
@@ -36,8 +38,8 @@ I build **production systems, distributed infrastructure, AI-native products, an
 
 
 ### Hackathons
-- **Design Decode Winner** · 1st Position at IIT Dhanbad - UI/UX hackathon
-- **CodeQuest Winner** · 1st Position at SBU, Ranchi - Problem solving hackathon 
+- **Design Decode '26 Winner** · 1st Position at IIT (ISM) Dhanbad - UI/UX hackathon
+- **CodeQuest 2026 Winner** · 1st Position at SBU, Ranchi - Problem solving hackathon 
 - **Innovate-A-Thon 3.0 · BIT Mesra / Coinbase** finalist with **TTREX**, a tokenized real-estate platform built around ERC-721 and ERC-1155 assets
 - **WeMakeDevs Hackathon**  shipped **Stikkle**, an AI engineering intelligence layer for repositories, pull requests, issues, and developer activity
 - **GDG Ranchi Hackathon · 36-hour sprint** built and shipped a complete end-to-end application under rapid prototyping constraints
@@ -51,7 +53,7 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **Cloud & DevOps** Docker, Kubernetes, AWS, Terraform, and GitHub Actions
 - **System Design** HLD, scalability, caching, load balancing, and distributed architecture
 - **1,100+ contributions** in the last year
-- **850+ problems solved** across LeetCode with a **55%+ acceptance rate**
+- **900+ problems solved** across LeetCode (peak contest rating **1,688**) with a **55%+ acceptance rate**
 
 
 ### 🏅 Achievements & Badges
