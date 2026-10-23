@@ -18,7 +18,7 @@
 I build **production systems, distributed infrastructure, AI-native products, and developer tools.**
 
 ### Engineering, Open Source & Programs
-
+- **Creator · [Rwaft](https://rwaft.live/)** building an AI app builder that turns ideas into live, deployable websites.
 - **Software Engineer Intern · [Ringthree](https://ringthree.ai/)** building AI voice agents: the Node.js voice runtime (Gemini Live, Twilio, Plivo, Asterisk) plus infrastructure, security and CI
 - **Software Developer · [Unwrite Studios](https://unwrite.studio/)**  worked on production software before moving on early
 - **Software Development Engineer Intern · [CNEAR](https://cnear.ai/)** contributed to production engineering and application development
