@@ -44,18 +44,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
 - **WeMakeDevs Hackathon**  shipped **Stikkle**, an AI engineering intelligence layer for repositories, pull requests, issues, and developer activity
 - **GDG Ranchi Hackathon · 36-hour sprint** built and shipped a complete end-to-end application under rapid prototyping constraints
 
-### Learning & Systems
-
-- **100xDevs Cohort** full-stack engineering, system design, and DevOps
-- **OWASP Nest · Open Source** security automation and CI/CD
-- **LLM & RAG Systems** vector search, embeddings, retrieval, and prompt engineering
-- **Distributed Systems** Kafka, gRPC, message queues, and event-driven architecture
-- **Cloud & DevOps** Docker, Kubernetes, AWS, Terraform, and GitHub Actions
-- **System Design** HLD, scalability, caching, load balancing, and distributed architecture
-- **1,100+ contributions** in the last year
-- **900+ problems solved** across LeetCode (peak contest rating **1,688**) with a **55%+ acceptance rate**
-
-
 ### 🏅 Achievements & Badges
 
 <p align="center">
