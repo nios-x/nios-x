@@ -51,8 +51,3 @@ I build **production systems, distributed infrastructure, AI-native products, an
     <img src="https://holopin.me/niosx" alt="Holopin Badges"/>
   </a>
 </p>
-
-<p align="center">
-   Hacktoberfest 2025 Supercontributor &nbsp;•&nbsp;  Open Source Contributor &nbsp;•&nbsp;
-</p>
-
