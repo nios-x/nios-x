@@ -20,7 +20,6 @@ I build **production systems, distributed infrastructure, AI-native products, an
 ### Engineering, Open Source & Programs
 - **Creator · [Rwaft](https://rwaft.live/)** building an AI app builder that turns ideas into live, deployable websites.
 - **Software Engineer Intern · [Ringthree](https://ringthree.ai/)** building AI voice agents: the Node.js voice runtime (Gemini Live, Twilio, Plivo, Asterisk) plus infrastructure, security and CI
-- **Software Developer · [Unwrite Studios](https://unwrite.studio/)**  worked on production software before moving on early
 - **Software Development Engineer Intern · [CNEAR](https://cnear.ai/)** contributed to production engineering and application development
 - **Open Source Contributor · [OWASP Nest](https://github.com/OWASP/Nest)** contributing to an open-source platform within the OWASP ecosystem
 - **Full Stack Developer Intern · WebSpace IN** built and shipped full-stack web applications across frontend and backend systems
