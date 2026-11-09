@@ -56,28 +56,3 @@ I build **production systems, distributed infrastructure, AI-native products, an
    Hacktoberfest 2025 Supercontributor &nbsp;•&nbsp;  Open Source Contributor &nbsp;•&nbsp;
 </p>
 
-
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind,python,django,flask,express,prisma,graphql,postgres,redis&perline=20" width="900" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,linux,git,github,githubactions,aws,gcp,vercel,netlify,pytorch,tensorflow,opencv,firebase,supabase,docker,mongodb&perline=20" width="900" />
-</p>
-
----
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   █████████████░░░░░░░░░░░░   52.3%
-JavaScript   ████████░░░░░░░░░░░░░░░░░   18.7%
-Python       ████░░░░░░░░░░░░░░░░░░░░░   12.1%
-C++          ███░░░░░░░░░░░░░░░░░░░░░░    8.4%
-Rust         ██░░░░░░░░░░░░░░░░░░░░░░░    4.2%
-Docker       █░░░░░░░░░░░░░░░░░░░░░░░░    2.8%
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░    1.5%
-```
-<!--END_SECTION:waka-->
-
